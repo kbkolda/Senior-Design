@@ -1,0 +1,453 @@
+1516037123: /home4/peacebr2/public_html/ssv3_payload_extractor-PbV2NYw7SV.php startup
+[17-Jan-2018 02:16:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home4/peacebr2/public_html/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/index.php on line 15
+[18-Jan-2018 21:04:48 UTC] PHP Warning:  require(/home4/peacebr2/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/index.php on line 17
+[18-Jan-2018 21:04:48 UTC] PHP Warning:  require(/home4/peacebr2/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/index.php on line 17
+[18-Jan-2018 21:04:48 UTC] PHP Fatal error:  require(): Failed opening required '/home4/peacebr2/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/index.php on line 17
+[18-Jan-2018 21:06:49 UTC] PHP Warning:  require(/home4/peacebr2/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/index.php on line 17
+[18-Jan-2018 21:06:49 UTC] PHP Warning:  require(/home4/peacebr2/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/index.php on line 17
+[18-Jan-2018 21:06:49 UTC] PHP Fatal error:  require(): Failed opening required '/home4/peacebr2/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/index.php on line 17
+[18-Jan-2018 22:56:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'project'@'localhost' (using password: YES) in /home4/peacebr2/public_html/index.php on line 4
+[18-Jan-2018 23:12:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/index.php on line 5
+[18-Jan-2018 23:12:38 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/index.php on line 9
+[18-Jan-2018 23:12:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/index.php on line 11
+[18-Jan-2018 23:12:38 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/index.php on line 16
+[18-Jan-2018 23:12:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'peacebr2_root'@'localhost' (using password: YES) in /home4/peacebr2/public_html/index.php on line 19
+[18-Jan-2018 23:12:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/index.php on line 5
+[18-Jan-2018 23:12:39 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/index.php on line 9
+[18-Jan-2018 23:12:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/index.php on line 11
+[18-Jan-2018 23:12:39 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/index.php on line 16
+[18-Jan-2018 23:12:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'peacebr2_root'@'localhost' (using password: YES) in /home4/peacebr2/public_html/index.php on line 19
+[18-Jan-2018 23:27:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/peacebr2/public_html/index.php on line 6
+[18-Jan-2018 23:27:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/peacebr2/public_html/index.php on line 6
+[18-Jan-2018 23:27:08 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/peacebr2/public_html/index.php on line 6
+[18-Jan-2018 23:27:14 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/peacebr2/public_html/index.php on line 6
+[18-Jan-2018 23:27:29 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/peacebr2/public_html/index.php on line 6
+[18-Jan-2018 23:42:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'project'@'localhost' (using password: YES) in /home4/peacebr2/public_html/index.php on line 5
+[18-Jan-2018 23:42:07 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/index.php on line 9
+[18-Jan-2018 23:42:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'project'@'localhost' (using password: YES) in /home4/peacebr2/public_html/index.php on line 11
+[18-Jan-2018 23:42:07 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/index.php on line 16
+[18-Jan-2018 23:42:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'project'@'localhost' (using password: YES) in /home4/peacebr2/public_html/index.php on line 5
+[18-Jan-2018 23:42:16 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/index.php on line 9
+[18-Jan-2018 23:42:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'project'@'localhost' (using password: YES) in /home4/peacebr2/public_html/index.php on line 11
+[18-Jan-2018 23:42:16 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/index.php on line 16
+[20-Jan-2018 06:13:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'www.peacebrookingscalendar.org'@'localhost' (using password: YES) in /home4/peacebr2/public_html/index.php on line 2
+[20-Jan-2018 06:13:48 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/index.php on line 6
+[20-Jan-2018 06:13:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'www.peacebrookingscalendar.org'@'localhost' (using password: YES) in /home4/peacebr2/public_html/index.php on line 8
+[20-Jan-2018 06:13:48 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/index.php on line 13
+[21-Jan-2018 08:49:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[21-Jan-2018 08:49:11 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[21-Jan-2018 08:49:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[21-Jan-2018 08:49:11 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[21-Jan-2018 08:49:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[21-Jan-2018 08:49:13 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[21-Jan-2018 08:49:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[21-Jan-2018 08:49:13 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[21-Jan-2018 08:49:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[21-Jan-2018 08:49:14 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[21-Jan-2018 08:49:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[21-Jan-2018 08:49:14 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[21-Jan-2018 08:49:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[21-Jan-2018 08:49:14 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[21-Jan-2018 08:49:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[21-Jan-2018 08:49:14 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[21-Jan-2018 08:49:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[21-Jan-2018 08:49:14 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[21-Jan-2018 08:49:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[21-Jan-2018 08:49:14 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[21-Jan-2018 08:49:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[21-Jan-2018 08:49:14 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[21-Jan-2018 08:49:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[21-Jan-2018 08:49:14 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[21-Jan-2018 08:49:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[21-Jan-2018 08:49:15 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[21-Jan-2018 08:49:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[21-Jan-2018 08:49:15 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[21-Jan-2018 08:49:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[21-Jan-2018 08:49:15 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[21-Jan-2018 08:49:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[21-Jan-2018 08:49:15 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[21-Jan-2018 08:49:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[21-Jan-2018 08:49:15 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[21-Jan-2018 08:49:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[21-Jan-2018 08:49:15 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[21-Jan-2018 09:02:37 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 180
+[21-Jan-2018 09:02:41 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 180
+[21-Jan-2018 09:03:05 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 180
+[21-Jan-2018 09:03:06 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 180
+[21-Jan-2018 09:03:45 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 180
+[21-Jan-2018 09:03:47 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 180
+[21-Jan-2018 09:04:49 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 180
+[21-Jan-2018 09:04:51 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 180
+[21-Jan-2018 09:04:55 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 180
+[21-Jan-2018 09:16:48 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home4/peacebr2/public_html/index.php on line 13
+[21-Jan-2018 09:19:47 UTC] PHP Parse error:  syntax error, unexpected '"\n \n inserting into db admin' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home4/peacebr2/public_html/index.php on line 175
+[21-Jan-2018 09:20:58 UTC] PHP Parse error:  syntax error, unexpected '$e1' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 174
+[21-Jan-2018 09:21:50 UTC] PHP Parse error:  syntax error, unexpected '$e1' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 177
+[21-Jan-2018 09:23:23 UTC] PHP Parse error:  syntax error, unexpected '"\n \n inserting into db admin' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home4/peacebr2/public_html/index.php on line 179
+[21-Jan-2018 09:23:25 UTC] PHP Parse error:  syntax error, unexpected '"\n \n inserting into db admin' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home4/peacebr2/public_html/index.php on line 179
+[21-Jan-2018 09:23:26 UTC] PHP Parse error:  syntax error, unexpected '"\n \n inserting into db admin' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home4/peacebr2/public_html/index.php on line 179
+[21-Jan-2018 09:23:27 UTC] PHP Parse error:  syntax error, unexpected '"\n \n inserting into db admin' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home4/peacebr2/public_html/index.php on line 179
+[21-Jan-2018 09:23:27 UTC] PHP Parse error:  syntax error, unexpected '"\n \n inserting into db admin' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home4/peacebr2/public_html/index.php on line 179
+[21-Jan-2018 09:23:27 UTC] PHP Parse error:  syntax error, unexpected '"\n \n inserting into db admin' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home4/peacebr2/public_html/index.php on line 179
+[21-Jan-2018 09:23:27 UTC] PHP Parse error:  syntax error, unexpected '"\n \n inserting into db admin' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home4/peacebr2/public_html/index.php on line 179
+[21-Jan-2018 09:23:27 UTC] PHP Parse error:  syntax error, unexpected '"\n \n inserting into db admin' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home4/peacebr2/public_html/index.php on line 179
+[21-Jan-2018 09:23:28 UTC] PHP Parse error:  syntax error, unexpected '"\n \n inserting into db admin' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home4/peacebr2/public_html/index.php on line 179
+[21-Jan-2018 09:24:03 UTC] PHP Parse error:  syntax error, unexpected '"\n \n inserting into db admin' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home4/peacebr2/public_html/index.php on line 179
+[21-Jan-2018 09:25:14 UTC] PHP Parse error:  syntax error, unexpected '"\n \n inserting into db admin' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home4/peacebr2/public_html/index.php on line 183
+[21-Jan-2018 09:25:14 UTC] PHP Parse error:  syntax error, unexpected '"\n \n inserting into db admin' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home4/peacebr2/public_html/index.php on line 183
+[21-Jan-2018 09:25:15 UTC] PHP Parse error:  syntax error, unexpected '"\n \n inserting into db admin' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home4/peacebr2/public_html/index.php on line 183
+[21-Jan-2018 09:25:15 UTC] PHP Parse error:  syntax error, unexpected '"\n \n inserting into db admin' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home4/peacebr2/public_html/index.php on line 183
+[21-Jan-2018 09:27:07 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting end of file in /home4/peacebr2/public_html/index.php on line 39
+[21-Jan-2018 09:30:04 UTC] PHP Parse error:  syntax error, unexpected '$e1' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 104
+[21-Jan-2018 09:31:39 UTC] PHP Parse error:  syntax error, unexpected '$e1' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 104
+[21-Jan-2018 09:34:48 UTC] PHP Parse error:  syntax error, unexpected '$e1' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 104
+[21-Jan-2018 09:35:08 UTC] PHP Parse error:  syntax error, unexpected '$e1' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 104
+[21-Jan-2018 09:35:16 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 108
+[21-Jan-2018 09:35:21 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 108
+[21-Jan-2018 09:35:24 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 108
+[21-Jan-2018 09:35:57 UTC] PHP Parse error:  syntax error, unexpected '$e1' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 104
+[21-Jan-2018 09:36:31 UTC] PHP Parse error:  syntax error, unexpected '$e1' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 104
+[21-Jan-2018 09:36:41 UTC] PHP Parse error:  syntax error, unexpected '$e1' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 104
+[21-Jan-2018 09:36:42 UTC] PHP Parse error:  syntax error, unexpected '$e1' (T_VARIABLE) in /home4/peacebr2/public_html/index.php on line 104
+[21-Jan-2018 09:45:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'peacebr2_dbuser'@'localhost' to database 'peacebr2_db' in /home4/peacebr2/public_html/index.php on line 8
+[21-Jan-2018 09:46:39 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/peacebr2/public_html/index.php on line 169
+[21-Jan-2018 09:59:59 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home4/peacebr2/public_html/index.php on line 7
+[21-Jan-2018 10:00:16 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home4/peacebr2/public_html/index.php on line 7
+[21-Jan-2018 10:00:16 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home4/peacebr2/public_html/index.php on line 7
+[21-Jan-2018 10:00:35 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home4/peacebr2/public_html/index.php on line 172
+[21-Jan-2018 10:00:37 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home4/peacebr2/public_html/index.php on line 172
+[21-Jan-2018 10:00:40 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home4/peacebr2/public_html/index.php on line 172
+[21-Jan-2018 10:02:23 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home4/peacebr2/public_html/index.php on line 172
+[21-Jan-2018 10:34:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'peacebr2_user'@'localhost' to database 'peacebr2_db' in /home4/peacebr2/public_html/index.php on line 9
+[21-Jan-2018 10:34:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'peacebr2_user'@'localhost' to database 'peacebr2_db' in /home4/peacebr2/public_html/index.php on line 9
+[21-Jan-2018 10:34:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'peacebr2_user'@'localhost' to database 'peacebr2_db' in /home4/peacebr2/public_html/index.php on line 9
+[21-Jan-2018 10:35:19 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home4/peacebr2/public_html/index.php on line 170
+[21-Jan-2018 10:35:24 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home4/peacebr2/public_html/index.php on line 170
+[21-Jan-2018 10:49:15 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home4/peacebr2/public_html/index.php on line 170
+[22-Jan-2018 07:50:04 UTC] PHP Parse error:  syntax error, unexpected 'feser' (T_STRING) in /home4/peacebr2/public_html/index.php on line 170
+[24-Jan-2018 11:25:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[24-Jan-2018 11:25:24 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[24-Jan-2018 11:25:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[24-Jan-2018 11:25:24 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[25-Feb-2018 03:06:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[25-Feb-2018 03:06:05 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[25-Feb-2018 03:06:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[25-Feb-2018 03:06:05 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[28-Mar-2018 03:07:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[28-Mar-2018 03:07:22 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[28-Mar-2018 03:07:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[28-Mar-2018 03:07:22 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[28-Apr-2018 09:06:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[28-Apr-2018 09:06:38 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[28-Apr-2018 09:06:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[28-Apr-2018 09:06:38 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[30-May-2018 15:12:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[30-May-2018 15:12:10 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[30-May-2018 15:12:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[30-May-2018 15:12:10 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[30-Jun-2018 12:41:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[30-Jun-2018 12:41:20 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[30-Jun-2018 12:41:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[30-Jun-2018 12:41:20 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[31-Jul-2018 19:47:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[31-Jul-2018 19:47:07 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[31-Jul-2018 19:47:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[31-Jul-2018 19:47:07 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[01-Sep-2018 10:06:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[01-Sep-2018 10:06:42 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[01-Sep-2018 10:06:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[01-Sep-2018 10:06:42 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[27-Sep-2018 05:03:22 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[27-Sep-2018 05:03:22 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[27-Sep-2018 05:03:22 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[27-Sep-2018 05:03:22 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[27-Sep-2018 05:03:22 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[27-Sep-2018 05:03:22 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-IXR.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[27-Sep-2018 05:03:22 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-IXR.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[27-Sep-2018 05:03:22 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-wp-xmlrpc-server.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[27-Sep-2018 05:03:22 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-wp-xmlrpc-server.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[27-Sep-2018 05:03:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home4/peacebr2/public_html/xmlrpc.php:80
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 80
+[27-Sep-2018 14:41:51 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[27-Sep-2018 14:41:51 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[27-Sep-2018 14:41:51 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[27-Sep-2018 14:41:51 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[27-Sep-2018 14:41:51 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[27-Sep-2018 14:41:51 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-IXR.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[27-Sep-2018 14:41:51 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-IXR.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[27-Sep-2018 14:41:51 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-wp-xmlrpc-server.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[27-Sep-2018 14:41:51 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-wp-xmlrpc-server.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[27-Sep-2018 14:41:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home4/peacebr2/public_html/xmlrpc.php:80
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 80
+[28-Sep-2018 14:49:19 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[28-Sep-2018 14:49:19 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[28-Sep-2018 14:49:19 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[28-Sep-2018 14:49:19 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[28-Sep-2018 14:49:19 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[28-Sep-2018 14:49:19 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-IXR.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[28-Sep-2018 14:49:19 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-IXR.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[28-Sep-2018 14:49:19 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-wp-xmlrpc-server.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[28-Sep-2018 14:49:19 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-wp-xmlrpc-server.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[28-Sep-2018 14:49:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home4/peacebr2/public_html/xmlrpc.php:80
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 80
+[28-Sep-2018 23:59:52 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[28-Sep-2018 23:59:52 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[28-Sep-2018 23:59:52 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[28-Sep-2018 23:59:52 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[28-Sep-2018 23:59:52 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[28-Sep-2018 23:59:52 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-IXR.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[28-Sep-2018 23:59:52 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-IXR.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[28-Sep-2018 23:59:52 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-wp-xmlrpc-server.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[28-Sep-2018 23:59:52 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-wp-xmlrpc-server.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[28-Sep-2018 23:59:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home4/peacebr2/public_html/xmlrpc.php:80
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 80
+[30-Sep-2018 10:43:38 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[30-Sep-2018 10:43:38 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[30-Sep-2018 10:43:38 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[30-Sep-2018 10:43:38 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[30-Sep-2018 10:43:38 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[30-Sep-2018 10:43:38 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-IXR.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[30-Sep-2018 10:43:38 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-IXR.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[30-Sep-2018 10:43:38 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-wp-xmlrpc-server.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[30-Sep-2018 10:43:38 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-wp-xmlrpc-server.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[30-Sep-2018 10:43:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home4/peacebr2/public_html/xmlrpc.php:80
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 80
+[30-Sep-2018 13:42:16 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[30-Sep-2018 13:42:16 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[30-Sep-2018 13:42:16 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[30-Sep-2018 13:42:16 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[30-Sep-2018 13:42:16 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[30-Sep-2018 13:42:16 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-IXR.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[30-Sep-2018 13:42:16 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-IXR.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[30-Sep-2018 13:42:16 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-wp-xmlrpc-server.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[30-Sep-2018 13:42:16 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-wp-xmlrpc-server.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[30-Sep-2018 13:42:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home4/peacebr2/public_html/xmlrpc.php:80
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 80
+[02-Oct-2018 05:46:06 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[02-Oct-2018 05:46:06 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[02-Oct-2018 05:46:06 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[02-Oct-2018 05:46:06 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[02-Oct-2018 05:46:06 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[02-Oct-2018 05:46:06 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-IXR.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[02-Oct-2018 05:46:06 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-IXR.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[02-Oct-2018 05:46:06 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-wp-xmlrpc-server.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[02-Oct-2018 05:46:06 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-wp-xmlrpc-server.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[02-Oct-2018 05:46:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home4/peacebr2/public_html/xmlrpc.php:80
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 80
+[02-Oct-2018 19:52:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[02-Oct-2018 19:52:55 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[02-Oct-2018 19:52:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[02-Oct-2018 19:52:55 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[05-Nov-2018 01:13:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[05-Nov-2018 01:13:05 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[05-Nov-2018 01:13:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[05-Nov-2018 01:13:05 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[06-Nov-2018 12:03:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[06-Nov-2018 12:03:36 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[06-Nov-2018 12:03:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[06-Nov-2018 12:03:36 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[15-Nov-2018 07:11:37 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[15-Nov-2018 07:11:37 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[15-Nov-2018 07:11:37 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[15-Nov-2018 07:11:37 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[15-Nov-2018 07:11:37 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[15-Nov-2018 07:11:37 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-IXR.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[15-Nov-2018 07:11:37 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-IXR.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[15-Nov-2018 07:11:37 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-wp-xmlrpc-server.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[15-Nov-2018 07:11:37 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-wp-xmlrpc-server.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[15-Nov-2018 07:11:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home4/peacebr2/public_html/xmlrpc.php:80
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 80
+[19-Nov-2018 02:49:24 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[19-Nov-2018 02:49:24 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[19-Nov-2018 02:49:24 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[19-Nov-2018 02:49:24 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[19-Nov-2018 02:49:24 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[19-Nov-2018 02:49:24 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-IXR.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[19-Nov-2018 02:49:24 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-IXR.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[19-Nov-2018 02:49:24 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-wp-xmlrpc-server.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[19-Nov-2018 02:49:24 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-wp-xmlrpc-server.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[19-Nov-2018 02:49:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home4/peacebr2/public_html/xmlrpc.php:80
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 80
+[05-Dec-2018 18:48:59 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[05-Dec-2018 18:48:59 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[05-Dec-2018 18:48:59 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[05-Dec-2018 18:48:59 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[05-Dec-2018 18:48:59 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 62
+[05-Dec-2018 18:48:59 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-IXR.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[05-Dec-2018 18:48:59 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-IXR.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 63
+[05-Dec-2018 18:48:59 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-wp-xmlrpc-server.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[05-Dec-2018 18:48:59 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-wp-xmlrpc-server.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 64
+[05-Dec-2018 18:48:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home4/peacebr2/public_html/xmlrpc.php:80
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 80
+[17-Dec-2018 19:21:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[17-Dec-2018 19:21:32 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[17-Dec-2018 19:21:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[17-Dec-2018 19:21:32 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[22-Jan-2019 09:04:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[22-Jan-2019 09:04:31 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[22-Jan-2019 09:04:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[22-Jan-2019 09:04:31 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[23-Jan-2019 13:58:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[23-Jan-2019 13:58:10 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[23-Jan-2019 13:58:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[23-Jan-2019 13:58:10 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[01-Apr-2019 08:51:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 2
+[01-Apr-2019 08:51:31 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 6
+[01-Apr-2019 08:51:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'peacebr2_user'@'localhost' (using password: YES) in /home4/peacebr2/public_html/connect.php on line 8
+[01-Apr-2019 08:51:31 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home4/peacebr2/public_html/connect.php on line 13
+[10-Apr-2019 21:00:02 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[10-Apr-2019 21:00:02 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[10-Apr-2019 21:00:02 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[10-Apr-2019 21:00:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[11-Apr-2019 01:25:46 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[11-Apr-2019 01:25:46 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[11-Apr-2019 01:25:46 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[11-Apr-2019 01:25:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[19-Apr-2019 18:28:54 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[19-Apr-2019 18:28:54 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[19-Apr-2019 18:28:54 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[19-Apr-2019 18:28:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[19-Apr-2019 18:29:24 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[19-Apr-2019 18:29:24 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[19-Apr-2019 18:29:24 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[19-Apr-2019 18:29:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[19-Apr-2019 18:31:28 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[19-Apr-2019 18:31:28 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[19-Apr-2019 18:31:28 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[19-Apr-2019 18:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[19-Apr-2019 18:50:15 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[19-Apr-2019 18:50:15 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[19-Apr-2019 18:50:15 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[19-Apr-2019 18:50:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[24-Apr-2019 07:15:15 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[24-Apr-2019 07:15:15 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[24-Apr-2019 07:15:15 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[24-Apr-2019 07:15:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[30-Apr-2019 02:38:34 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[30-Apr-2019 02:38:34 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[30-Apr-2019 02:38:34 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[30-Apr-2019 02:38:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[30-Apr-2019 02:40:30 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[30-Apr-2019 02:40:30 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[30-Apr-2019 02:40:30 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[30-Apr-2019 02:40:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[03-May-2019 16:44:17 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[03-May-2019 16:44:17 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[03-May-2019 16:44:17 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[03-May-2019 16:44:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[03-May-2019 20:56:55 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[03-May-2019 20:56:55 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[03-May-2019 20:56:55 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[03-May-2019 20:56:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[04-May-2019 00:35:00 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[04-May-2019 00:35:00 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[04-May-2019 00:35:00 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[04-May-2019 00:35:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[06-May-2019 19:19:12 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[06-May-2019 19:19:12 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[06-May-2019 19:19:12 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[06-May-2019 19:19:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[06-May-2019 21:09:15 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[06-May-2019 21:09:15 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[06-May-2019 21:09:15 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[06-May-2019 21:09:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[06-May-2019 21:48:05 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[06-May-2019 21:48:05 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[06-May-2019 21:48:05 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[06-May-2019 21:48:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[12-May-2019 10:03:35 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[12-May-2019 10:03:35 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[12-May-2019 10:03:35 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[12-May-2019 10:03:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[15-May-2019 23:23:23 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[15-May-2019 23:23:23 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[15-May-2019 23:23:23 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[15-May-2019 23:23:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[15-May-2019 23:39:17 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[15-May-2019 23:39:17 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[15-May-2019 23:39:17 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[15-May-2019 23:39:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
+[15-May-2019 23:42:40 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[15-May-2019 23:42:40 UTC] PHP Warning:  include(/home4/peacebr2/public_html/wp-load.php): failed to open stream: No such file or directory in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[15-May-2019 23:42:40 UTC] PHP Warning:  include(): Failed opening '/home4/peacebr2/public_html/wp-load.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/peacebr2/public_html/xmlrpc.php on line 29
+[15-May-2019 23:42:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home4/peacebr2/public_html/xmlrpc.php:32
+Stack trace:
+#0 {main}
+  thrown in /home4/peacebr2/public_html/xmlrpc.php on line 32
