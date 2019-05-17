@@ -1,6 +1,6 @@
 <?php
 
-require_once('../bdd.php');
+require_once('bdd.php');
 if (isset($_POST['delete']) && isset($_POST['id'])){
 	
 	
@@ -39,7 +39,7 @@ if (isset($_POST['delete']) && isset($_POST['id'])){
 	}
 
 }
-header('Location: '.$_SERVER['HTTP_REFERER']);
+header('Location: index.php');
 
 	
 ?>
