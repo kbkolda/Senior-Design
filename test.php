@@ -7,9 +7,88 @@ $sql = "SELECT id, title, start, end, color FROM events ";
 $req = $bdd->prepare($sql);
 $req->execute();
 $events = $req->fetchAll();
+
+$servername = "localhost";
+$username = "peacebr2_user";
+$password = "dbuser";
+$dbname = "peacebr2_db";
+
+$conn = new mysqli($servername, $username, $password, $dbname);
+
+if ($conn->connect_error) 
+{
+    die("Connection failed: " . $conn->connect_error);
+} 
+
+$sql = "SELECT staffheader FROM sidebar";
+$result = $conn->query($sql);
+$row = $result->fetch_assoc();
+$header = $row["staffheader"];
+
+$sql = "SELECT staffbody FROM sidebar";
+$result = $conn->query($sql);
+$row = $result->fetch_assoc();
+$body = $row["staffbody"];
+
+$conn->close();
 ?>
 <!DOCTYPE html>
 <html lang="en">
+    <style>
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+    width: 19%;
+    position: fixed;
+    z-index: 1;
+    top: 160px;
+    right: 10px;
+    background: #eee;
+    overflow-x: hidden;
+    padding: 8px 0;
+	height: 30%;
+}
+
+.sidenav H1 {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #2196F3;
+    display: block;
+}
+
+.sidenav p {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #064579;
+}
+
+.main {
+    margin-left: 140px; /* Same width as the sidebar + left position in px */
+    font-size: 28px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+	
+}
+.textarea {
+	margin: auto;
+	width: 30%;
+	padding: 25px;
+}
+
+</style>
     <!-- Page Content -->
     <div class="container">
 
@@ -416,5 +495,11 @@ $events = $req->fetchAll();
 
 </script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.js"></script>
+
+<div class="sidenav">
+	<h1> <?php echo $header; ?> </h1>
+	<p> <?php echo $body; ?> </p>
+  
+</div>
 
 </html>
